@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Foodigo/static/css/main.84cdf008.css",
-    "main.js": "/Foodigo/static/js/main.3a3c8f21.js",
+    "main.js": "/Foodigo/static/js/main.a994ba10.js",
     "static/media/meals2.jpg": "/Foodigo/static/media/meals2.57c2aaa406400cb289fb.jpg",
     "index.html": "/Foodigo/index.html",
     "main.84cdf008.css.map": "/Foodigo/static/css/main.84cdf008.css.map",
-    "main.3a3c8f21.js.map": "/Foodigo/static/js/main.3a3c8f21.js.map"
+    "main.a994ba10.js.map": "/Foodigo/static/js/main.a994ba10.js.map"
   },
   "entrypoints": [
     "static/css/main.84cdf008.css",
-    "static/js/main.3a3c8f21.js"
+    "static/js/main.a994ba10.js"
   ]
 }
