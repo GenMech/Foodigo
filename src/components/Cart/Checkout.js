@@ -48,7 +48,7 @@ const Checkout = prop => {
           enteredCityIsValid;
 
           if(!formIsValid){
-            
+            return;
           }
 
           // submit the cart data
