@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Foodigo
+●	Foodigo is fully responsive react js website, where you can order your favourite food by adding them in your cart.
+<br>
+●	It is a web app designed to feature a menu, today’s special, food of the restaurant.
+<br>
+●	Users can also subscribe to their newsletter in order to stay updated.
+<br>
+●	Users can increase or decrease their cart food value in cart itself.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TechStacks Used 
+-> <b>Front End is built completely with ReactJs.</b>
+<br>
+-> <b>For DataBase I have used FireBase as BaaS, Where all details of food items is stored and also after successful order all the details of user sent to FireBase.</b>
 
-## Available Scripts
+# Some SnapShots
+●<b> Front Page </b>
+![FoodigoHUD](https://user-images.githubusercontent.com/85284840/194013617-788cc654-c780-4f2f-8538-a4940aa70a3d.png)
 
-In the project directory, you can run:
+●<b> Cart </b>
+![Cart](https://user-images.githubusercontent.com/85284840/194014024-1002924f-4fca-407b-bb78-d0fe02f740fa.png)
 
-### `npm start`
+●<b> Order Submit </b>
+![OrderSub](https://user-images.githubusercontent.com/85284840/194014880-9cac7f69-4d7c-4b59-8fac-a324a70650e5.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+●<b> FireBase </b>
+![FireBase](https://user-images.githubusercontent.com/85284840/194014935-e2fc757e-d752-432e-af56-1321e7a1f5e7.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
